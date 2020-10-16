@@ -19,7 +19,7 @@
             </plugin>
         </plugins>
     </build>
-    <packaging>pom</packaging>
+    <packaging>jar</packaging>
     <url>https://www.mc-serverworld.com</url>
     <inceptionYear>2020</inceptionYear>
 
